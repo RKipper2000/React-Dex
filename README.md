@@ -68,3 +68,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Instrucciones
+
+Para correr este programa, es necesario:
+
+- Importar el proyecto de gitHub
+- Instalar las dependencias ejecutando el comando "npm install" en una terminal abierta en la carpeta donde está almacenado el proyecto
+- Una vez instaladas las dependencias, ejecutar el comando "npm start" para ejecutar el proyecto
